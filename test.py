@@ -1,1 +1,2 @@
 import chainer
+import cupy
